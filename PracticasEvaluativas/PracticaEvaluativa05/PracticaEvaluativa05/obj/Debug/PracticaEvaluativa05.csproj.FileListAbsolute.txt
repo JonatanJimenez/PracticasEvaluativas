@@ -1,0 +1,7 @@
+C:\Users\Sony Vaio\Documents\EstructuraDeDatos\PracticasEvaluativas\PracticaEvaluativa05\PracticaEvaluativa05\bin\Debug\PracticaEvaluativa05.exe.config
+C:\Users\Sony Vaio\Documents\EstructuraDeDatos\PracticasEvaluativas\PracticaEvaluativa05\PracticaEvaluativa05\bin\Debug\PracticaEvaluativa05.exe
+C:\Users\Sony Vaio\Documents\EstructuraDeDatos\PracticasEvaluativas\PracticaEvaluativa05\PracticaEvaluativa05\bin\Debug\PracticaEvaluativa05.pdb
+C:\Users\Sony Vaio\Documents\EstructuraDeDatos\PracticasEvaluativas\PracticaEvaluativa05\PracticaEvaluativa05\obj\Debug\PracticaEvaluativa05.csprojResolveAssemblyReference.cache
+C:\Users\Sony Vaio\Documents\EstructuraDeDatos\PracticasEvaluativas\PracticaEvaluativa05\PracticaEvaluativa05\obj\Debug\PracticaEvaluativa05.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Documents\EstructuraDeDatos\PracticasEvaluativas\PracticaEvaluativa05\PracticaEvaluativa05\obj\Debug\PracticaEvaluativa05.exe
+C:\Users\Sony Vaio\Documents\EstructuraDeDatos\PracticasEvaluativas\PracticaEvaluativa05\PracticaEvaluativa05\obj\Debug\PracticaEvaluativa05.pdb
